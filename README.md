@@ -12,6 +12,38 @@
 </p> 
 
 
+ Hi there 👋 I'm Menna Essam
+
+🎓 I'm a Computer Science student from Alexandria University.  
+💻 I'm passionate about Web Development, especially in the Back-End field.  
+🧠 I'm also interested in exploring AI and Cyber Security, and how they can integrate with web technologies.
+
+🌱 Currently, I'm revisiting the fundamentals and building real-world projects to strengthen my skills.  
+
+📫 You can find my projects here on GitHub — I'm updating them regularly as I learn more!  
+🧩 I believe in consistency, curiosity, and sharing what I learn with others.
+
+---
+
+> *"Start where you are. Use what you have. Do what you can."* 💡
+
+---
+
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-essam-158753324/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](menaessam667@gmail.com)
+
+## 📊 GitHub Stats
+
+![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennadevhub&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennadevhub&layout=compact&theme=radical)
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=mennadevhub&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
