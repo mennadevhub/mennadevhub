@@ -42,7 +42,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![materialui](https://img.shields.io/badge/-MaterialUi-05122A?style=flat&logo=Material&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![React.js](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
